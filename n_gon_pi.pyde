@@ -1,4 +1,3 @@
-import math as m
 r=400
 n=2
 
